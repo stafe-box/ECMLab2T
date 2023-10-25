@@ -1,0 +1,14 @@
+C:\Users\stafe\source\repos\ECMLab2T\bin\Debug\net7.0\ECMLab2T.exe
+C:\Users\stafe\source\repos\ECMLab2T\bin\Debug\net7.0\ECMLab2T.deps.json
+C:\Users\stafe\source\repos\ECMLab2T\bin\Debug\net7.0\ECMLab2T.runtimeconfig.json
+C:\Users\stafe\source\repos\ECMLab2T\bin\Debug\net7.0\ECMLab2T.dll
+C:\Users\stafe\source\repos\ECMLab2T\bin\Debug\net7.0\ECMLab2T.pdb
+C:\Users\stafe\source\repos\ECMLab2T\obj\Debug\net7.0\ECMLab2T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stafe\source\repos\ECMLab2T\obj\Debug\net7.0\ECMLab2T.AssemblyInfoInputs.cache
+C:\Users\stafe\source\repos\ECMLab2T\obj\Debug\net7.0\ECMLab2T.AssemblyInfo.cs
+C:\Users\stafe\source\repos\ECMLab2T\obj\Debug\net7.0\ECMLab2T.csproj.CoreCompileInputs.cache
+C:\Users\stafe\source\repos\ECMLab2T\obj\Debug\net7.0\ECMLab2T.dll
+C:\Users\stafe\source\repos\ECMLab2T\obj\Debug\net7.0\refint\ECMLab2T.dll
+C:\Users\stafe\source\repos\ECMLab2T\obj\Debug\net7.0\ECMLab2T.pdb
+C:\Users\stafe\source\repos\ECMLab2T\obj\Debug\net7.0\ECMLab2T.genruntimeconfig.cache
+C:\Users\stafe\source\repos\ECMLab2T\obj\Debug\net7.0\ref\ECMLab2T.dll

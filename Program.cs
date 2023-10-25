@@ -1,4 +1,6 @@
 ﻿
+using ECMLab2T;
+
 while (true)
 {
     Console.WriteLine("\rPress [C] to run client or press [S] to run server");
@@ -12,7 +14,7 @@ while (true)
     if (key.Key == ConsoleKey.S)
     {
         Console.WriteLine("\rRunning server...");
-        Server.Run();
+        await Server.Run();
         break;
     }
 }

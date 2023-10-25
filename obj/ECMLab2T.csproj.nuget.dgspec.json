@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stafe\\ECMLab2T\\ECMLab2T.csproj": {}
+    "C:\\Users\\stafe\\source\\repos\\ECMLab2T\\ECMLab2T.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stafe\\ECMLab2T\\ECMLab2T.csproj": {
+    "C:\\Users\\stafe\\source\\repos\\ECMLab2T\\ECMLab2T.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stafe\\ECMLab2T\\ECMLab2T.csproj",
+        "projectUniqueName": "C:\\Users\\stafe\\source\\repos\\ECMLab2T\\ECMLab2T.csproj",
         "projectName": "ECMLab2T",
-        "projectPath": "C:\\Users\\stafe\\ECMLab2T\\ECMLab2T.csproj",
+        "projectPath": "C:\\Users\\stafe\\source\\repos\\ECMLab2T\\ECMLab2T.csproj",
         "packagesPath": "C:\\Users\\stafe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stafe\\ECMLab2T\\obj\\",
+        "outputPath": "C:\\Users\\stafe\\source\\repos\\ECMLab2T\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "G:\\VisualStudio\\SDK\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\stafe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.309\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

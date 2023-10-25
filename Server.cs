@@ -8,12 +8,12 @@ using System.IO;
 
 namespace ECMLab2T
 {
-    class PipeServer
+    public static class Server
     {
         private static PriorityQueue<SomeData, int> dataQueue = new PriorityQueue<SomeData, int>();
         private static Mutex mutex = new Mutex();
 
-        private static Task Run()
+        public static Task Run()
         {
             CancellationTokenSource source = new CancellationTokenSource();
             CancellationToken token = source.Token;

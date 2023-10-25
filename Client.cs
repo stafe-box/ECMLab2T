@@ -3,9 +3,9 @@ using System.Runtime.CompilerServices;
 
 namespace ECMLab2T
 {
-    class Client
+    public static class Client
     {
-        static void Run()
+        public static void Run()
         {
             using (NamedPipeClientStream Client = new(".", "channel", PipeDirection.InOut))
             {
